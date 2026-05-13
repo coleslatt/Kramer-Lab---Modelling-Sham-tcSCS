@@ -1,0 +1,14 @@
+Field,Value
+Start Time,2026-04-30T13:08:35.434496
+Image Path,C:\Users\CapTrak\Documents\Keysight_33000_FuncGen_and_Digitimer_D188_Control\Application_Files\myotome.2.png
+Participant First Name,kip trial 1
+Participant Last Name,
+Participant ID,1
+Total Experiment Time (s),4061
+
+Trial Index,Electrode Config,Waveform,Polarity,Displayed Status,Number of Log Entries,Total Trial Time (s)
+1,DV-I,Active,Normal,Active,13,2077
+2,DO-C,Sham,Normal,Active,4,443
+3,DV-I,Sham,Normal,Active,10,629
+4,DO-C,Active,Normal,Sham,4,386
+5,DO-I,Active,Normal,Active,6,524
