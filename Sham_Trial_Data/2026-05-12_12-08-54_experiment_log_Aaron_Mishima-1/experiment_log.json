@@ -1,0 +1,2750 @@
+{
+    "start_time": "2026-05-12T11:08:18.559781",
+    "patient_first_name": "aaron mishima-1",
+    "patient_last_name": "",
+    "patient_id": "",
+    "total_experiment_time_seconds": 3604,
+    "intensity_change_events": [
+        {
+            "current_time": "2026-05-12T11:08:33.605056",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 2.0,
+            "new_intensity_ma": 4.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:09:19.895201",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 4.0,
+            "new_intensity_ma": 6.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:10:18.997843",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 6.0,
+            "new_intensity_ma": 8.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:10:47.372512",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 8.0,
+            "new_intensity_ma": 10.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:10:56.362220",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 10.0,
+            "new_intensity_ma": 12.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:11:10.633573",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 12.0,
+            "new_intensity_ma": 14.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:11:18.071721",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 14.0,
+            "new_intensity_ma": 16.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:13:01.514020",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 16.0,
+            "new_intensity_ma": 18.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:13:07.763727",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 18.0,
+            "new_intensity_ma": 20.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:13:18.293373",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 20.0,
+            "new_intensity_ma": 22.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:13:22.338736",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 22.0,
+            "new_intensity_ma": 24.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:14:10.773747",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 24.0,
+            "new_intensity_ma": 26.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:14:19.812440",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 26.0,
+            "new_intensity_ma": 28.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:14:35.624704",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 28.0,
+            "new_intensity_ma": 30.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:14:48.458798",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 30.0,
+            "new_intensity_ma": 32.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:15:02.256102",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 32.0,
+            "new_intensity_ma": 34.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:15:50.245619",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 34.0,
+            "new_intensity_ma": 36.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:16:03.947163",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 36.0,
+            "new_intensity_ma": 38.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:16:17.208689",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 38.0,
+            "new_intensity_ma": 40.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:16:32.209485",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 40.0,
+            "new_intensity_ma": 42.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:16:39.335998",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 42.0,
+            "new_intensity_ma": 44.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:16:48.896091",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 44.0,
+            "new_intensity_ma": 46.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:16:58.073122",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 46.0,
+            "new_intensity_ma": 48.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:17:10.034738",
+            "trial_index": 0,
+            "order_number": 1,
+            "electrode_config": "DO-C",
+            "waveform": "Active",
+            "previous_intensity_ma": 48.0,
+            "new_intensity_ma": 50.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:20:43.430476",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 2.0,
+            "new_intensity_ma": 4.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:21:03.525529",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 4.0,
+            "new_intensity_ma": 6.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:21:35.097468",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 6.0,
+            "new_intensity_ma": 8.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:21:40.695739",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 8.0,
+            "new_intensity_ma": 10.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:22:13.247560",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 10.0,
+            "new_intensity_ma": 12.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:22:20.678702",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 12.0,
+            "new_intensity_ma": 14.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:22:28.940537",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 14.0,
+            "new_intensity_ma": 16.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:22:36.647686",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 16.0,
+            "new_intensity_ma": 18.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:22:49.782838",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 18.0,
+            "new_intensity_ma": 20.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:22:54.346052",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 20.0,
+            "new_intensity_ma": 22.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:23:01.579823",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 22.0,
+            "new_intensity_ma": 24.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:24:03.206234",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 24.0,
+            "new_intensity_ma": 26.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:24:11.363785",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 26.0,
+            "new_intensity_ma": 28.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:25:17.862784",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 28.0,
+            "new_intensity_ma": 30.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:25:23.420042",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 30.0,
+            "new_intensity_ma": 32.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:26:07.302206",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 32.0,
+            "new_intensity_ma": 34.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:26:24.101355",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 34.0,
+            "new_intensity_ma": 36.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:28:07.061111",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 36.0,
+            "new_intensity_ma": 38.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:28:28.590514",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 38.0,
+            "new_intensity_ma": 37.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:28:30.208958",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 37.5,
+            "new_intensity_ma": 37.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:28:31.539224",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 37.0,
+            "new_intensity_ma": 36.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:28:33.784449",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 36.5,
+            "new_intensity_ma": 36.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:28:47.166802",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 36.0,
+            "new_intensity_ma": 35.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:28:54.291521",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 35.5,
+            "new_intensity_ma": 35.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:29:05.983580",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 35.0,
+            "new_intensity_ma": 34.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:29:10.253293",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 34.5,
+            "new_intensity_ma": 34.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:29:25.450091",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 34.0,
+            "new_intensity_ma": 33.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:29:43.483795",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 33.5,
+            "new_intensity_ma": 33.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:30:43.647111",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 33.0,
+            "new_intensity_ma": 35.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:30:48.161022",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 35.0,
+            "new_intensity_ma": 37.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:31:25.031782",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 37.0,
+            "new_intensity_ma": 39.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:31:39.146176",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 39.0,
+            "new_intensity_ma": 41.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:31:46.126105",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 41.0,
+            "new_intensity_ma": 43.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:32:01.243443",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 43.0,
+            "new_intensity_ma": 45.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:32:54.684100",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 45.0,
+            "new_intensity_ma": 47.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:33:14.460826",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 47.0,
+            "new_intensity_ma": 49.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:34:06.085182",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 49.0,
+            "new_intensity_ma": 51.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:34:08.591347",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 51.0,
+            "new_intensity_ma": 50.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:34:12.004777",
+            "trial_index": 1,
+            "order_number": 2,
+            "electrode_config": "DV-I",
+            "waveform": "Sham",
+            "previous_intensity_ma": 50.5,
+            "new_intensity_ma": 50.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:34:30.722430",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 2.0,
+            "new_intensity_ma": 2.5,
+            "increment_ma": 0.5,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:34:35.129239",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 2.5,
+            "new_intensity_ma": 2.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:34:36.907423",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 2.0,
+            "new_intensity_ma": 4.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:34:44.050107",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 4.0,
+            "new_intensity_ma": 6.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:34:51.723924",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 6.0,
+            "new_intensity_ma": 8.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:34:58.900799",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 8.0,
+            "new_intensity_ma": 10.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:35:04.566239",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 10.0,
+            "new_intensity_ma": 12.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:35:38.907468",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 12.0,
+            "new_intensity_ma": 14.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:35:44.981862",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 14.0,
+            "new_intensity_ma": 16.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:35:49.681286",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 16.0,
+            "new_intensity_ma": 18.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:35:57.266546",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 18.0,
+            "new_intensity_ma": 20.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:36:01.332463",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 20.0,
+            "new_intensity_ma": 22.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:36:06.007337",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 22.0,
+            "new_intensity_ma": 24.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:36:40.857630",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 24.0,
+            "new_intensity_ma": 26.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:36:45.937108",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 26.0,
+            "new_intensity_ma": 28.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:36:51.024704",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 28.0,
+            "new_intensity_ma": 30.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:36:54.785987",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 30.0,
+            "new_intensity_ma": 32.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:37:02.075053",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 32.0,
+            "new_intensity_ma": 34.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:37:10.314680",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 34.0,
+            "new_intensity_ma": 36.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:37:18.035202",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 36.0,
+            "new_intensity_ma": 38.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:37:26.530786",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 38.0,
+            "new_intensity_ma": 40.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:37:32.544062",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 40.0,
+            "new_intensity_ma": 42.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:38:34.542425",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 42.0,
+            "new_intensity_ma": 44.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:38:43.403501",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 44.0,
+            "new_intensity_ma": 46.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:38:51.302562",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 46.0,
+            "new_intensity_ma": 48.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:39:01.710174",
+            "trial_index": 2,
+            "order_number": 3,
+            "electrode_config": "DO-C",
+            "waveform": "Sham",
+            "previous_intensity_ma": 48.0,
+            "new_intensity_ma": 50.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:40:00.570074",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 2.0,
+            "new_intensity_ma": 4.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:40:08.499954",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 4.0,
+            "new_intensity_ma": 6.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:40:12.005633",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 6.0,
+            "new_intensity_ma": 8.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:40:14.768839",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 8.0,
+            "new_intensity_ma": 10.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:40:21.724769",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 10.0,
+            "new_intensity_ma": 12.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:40:27.578753",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 12.0,
+            "new_intensity_ma": 14.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:40:34.505328",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 14.0,
+            "new_intensity_ma": 16.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:41:15.731732",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 16.0,
+            "new_intensity_ma": 18.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:41:23.065298",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 18.0,
+            "new_intensity_ma": 20.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:41:29.709276",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 20.0,
+            "new_intensity_ma": 22.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:41:34.448078",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 22.0,
+            "new_intensity_ma": 24.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:42:14.019729",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 24.0,
+            "new_intensity_ma": 26.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:42:18.941953",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 26.0,
+            "new_intensity_ma": 28.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:42:26.968128",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 28.0,
+            "new_intensity_ma": 30.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:43:30.105729",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 30.0,
+            "new_intensity_ma": 32.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:43:38.622121",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 32.0,
+            "new_intensity_ma": 34.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:44:30.675638",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 34.0,
+            "new_intensity_ma": 33.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:44:37.118240",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 33.5,
+            "new_intensity_ma": 33.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:44:42.716462",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 33.0,
+            "new_intensity_ma": 32.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:44:47.322524",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 32.5,
+            "new_intensity_ma": 32.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:44:52.033298",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 32.0,
+            "new_intensity_ma": 31.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:45:04.706906",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 31.5,
+            "new_intensity_ma": 31.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:45:12.865860",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 31.0,
+            "new_intensity_ma": 30.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:45:17.819685",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 30.5,
+            "new_intensity_ma": 30.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:45:26.895306",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 30.0,
+            "new_intensity_ma": 29.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:45:35.885767",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 29.5,
+            "new_intensity_ma": 29.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:45:51.805861",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 29.0,
+            "new_intensity_ma": 29.5,
+            "increment_ma": 0.5,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:46:21.209851",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 29.5,
+            "new_intensity_ma": 30.0,
+            "increment_ma": 0.5,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:46:23.344023",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 30.0,
+            "new_intensity_ma": 32.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:46:26.549363",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 32.0,
+            "new_intensity_ma": 34.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:46:32.683551",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 34.0,
+            "new_intensity_ma": 36.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:46:40.785950",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 36.0,
+            "new_intensity_ma": 38.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:46:47.560115",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 38.0,
+            "new_intensity_ma": 40.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:46:53.341584",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 40.0,
+            "new_intensity_ma": 42.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:48:45.581767",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 42.0,
+            "new_intensity_ma": 44.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:48:55.280534",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 44.0,
+            "new_intensity_ma": 46.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:49:20.402769",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 46.0,
+            "new_intensity_ma": 48.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:49:24.271540",
+            "trial_index": 3,
+            "order_number": 4,
+            "electrode_config": "DO-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 48.0,
+            "new_intensity_ma": 50.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:54:38.609104",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 2.0,
+            "new_intensity_ma": 2.5,
+            "increment_ma": 0.5,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:54:40.706234",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 2.5,
+            "new_intensity_ma": 2.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T11:54:42.753927",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 2.0,
+            "new_intensity_ma": 4.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:54:47.521850",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 4.0,
+            "new_intensity_ma": 6.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:54:57.052546",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 6.0,
+            "new_intensity_ma": 8.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:55:43.650308",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 8.0,
+            "new_intensity_ma": 10.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:55:47.025468",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 10.0,
+            "new_intensity_ma": 12.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:55:51.391733",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 12.0,
+            "new_intensity_ma": 14.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:56:19.373650",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 14.0,
+            "new_intensity_ma": 16.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:56:24.681402",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 16.0,
+            "new_intensity_ma": 18.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:56:33.947006",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 18.0,
+            "new_intensity_ma": 20.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:56:39.158887",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 20.0,
+            "new_intensity_ma": 22.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:56:46.643248",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 22.0,
+            "new_intensity_ma": 24.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:56:58.610598",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 24.0,
+            "new_intensity_ma": 26.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:57:07.412373",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 26.0,
+            "new_intensity_ma": 28.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:57:14.112943",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 28.0,
+            "new_intensity_ma": 30.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:57:28.008128",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 30.0,
+            "new_intensity_ma": 32.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:57:37.533790",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 32.0,
+            "new_intensity_ma": 34.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T11:58:06.065574",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 34.0,
+            "new_intensity_ma": 36.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T12:00:43.710496",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 36.0,
+            "new_intensity_ma": 35.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T12:00:49.785721",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 35.5,
+            "new_intensity_ma": 35.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T12:00:56.814423",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 35.0,
+            "new_intensity_ma": 34.5,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T12:01:06.170352",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 34.5,
+            "new_intensity_ma": 34.0,
+            "increment_ma": 0.5,
+            "direction": "decrease"
+        },
+        {
+            "current_time": "2026-05-12T12:01:46.052354",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 34.0,
+            "new_intensity_ma": 36.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T12:01:50.393347",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 36.0,
+            "new_intensity_ma": 38.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T12:02:02.951324",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 38.0,
+            "new_intensity_ma": 40.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T12:02:45.943813",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 40.0,
+            "new_intensity_ma": 42.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T12:04:37.251885",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 42.0,
+            "new_intensity_ma": 44.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T12:05:17.649905",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 44.0,
+            "new_intensity_ma": 46.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T12:05:54.510107",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 46.0,
+            "new_intensity_ma": 48.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        },
+        {
+            "current_time": "2026-05-12T12:06:05.506698",
+            "trial_index": 4,
+            "order_number": 5,
+            "electrode_config": "DV-I",
+            "waveform": "Active",
+            "previous_intensity_ma": 48.0,
+            "new_intensity_ma": 50.0,
+            "increment_ma": 2.0,
+            "direction": "increase"
+        }
+    ],
+    "trial_logs": [
+        {
+            "current_time": "2026-05-12T11:08:18.562786",
+            "condition": {
+                "electrode_config": "DO-C",
+                "waveform": "Active",
+                "polarity": "Normal"
+            },
+            "displayed_status": "Sham",
+            "order_number": 1,
+            "total_trial_time_seconds": 731,
+            "patient_reports": [
+                {
+                    "current_intensity_ma": 6.0,
+                    "current_time": "2026-05-12T11:10:16.005429",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:10:16.003613",
+                        "annotations": [
+                            {
+                                "x": 200.10970464135022,
+                                "y": 435.02109704641356,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:10:14.948969"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 16.0,
+                    "current_time": "2026-05-12T11:12:59.787801",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:12:59.786779",
+                        "annotations": [
+                            {
+                                "x": 768.2796143250689,
+                                "y": 372.06887052341597,
+                                "intensity": 5,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "all the sensations are in th eback",
+                                "created_at": "2026-05-12T11:12:54.782760"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 24.0,
+                    "current_time": "2026-05-12T11:14:08.844124",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:14:08.843130",
+                        "annotations": [
+                            {
+                                "x": 827.9242424242424,
+                                "y": 268.400826446281,
+                                "intensity": 5,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:14:07.922007"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 50.0,
+                    "current_time": "2026-05-12T11:20:25.371675",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:20:25.370718",
+                        "annotations": [
+                            {
+                                "x": 744.1377410468319,
+                                "y": 364.96831955922863,
+                                "intensity": 7,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Sustained contraction",
+                                "motor_temporal_quality": "Consistent",
+                                "additional_notes": "also feel it at the triceps",
+                                "created_at": "2026-05-12T11:19:25.623499"
+                            },
+                            {
+                                "x": 840.7052341597796,
+                                "y": 276.92148760330576,
+                                "intensity": 3,
+                                "sensation": "",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "dull sensation",
+                                "created_at": "2026-05-12T11:20:21.286748"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "current_time": "2026-05-12T11:20:30.271442",
+            "condition": {
+                "electrode_config": "DV-I",
+                "waveform": "Sham",
+                "polarity": "Normal"
+            },
+            "displayed_status": "Active",
+            "order_number": 2,
+            "total_trial_time_seconds": 828,
+            "patient_reports": [
+                {
+                    "current_intensity_ma": 6.0,
+                    "current_time": "2026-05-12T11:21:33.540250",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:21:33.539056",
+                        "annotations": [
+                            {
+                                "x": 744.1377410468319,
+                                "y": 366.3884297520661,
+                                "intensity": 1,
+                                "sensation": "Tingling",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:21:32.616723"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 10.0,
+                    "current_time": "2026-05-12T11:22:11.166367",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:22:11.164958",
+                        "annotations": [
+                            {
+                                "x": 742.7176308539945,
+                                "y": 366.3884297520661,
+                                "intensity": 3,
+                                "sensation": "Pulsing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:22:10.471854"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 24.0,
+                    "current_time": "2026-05-12T11:24:00.441899",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:24:00.441899",
+                        "annotations": [
+                            {
+                                "x": 739.8774104683196,
+                                "y": 335.14600550964184,
+                                "intensity": 4,
+                                "sensation": "Pulsing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:23:58.710394"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 28.0,
+                    "current_time": "2026-05-12T11:25:15.840213",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:25:15.840213",
+                        "annotations": [
+                            {
+                                "x": 719.9958677685951,
+                                "y": 356.44765840220384,
+                                "intensity": 4,
+                                "sensation": "Pressure",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Sustained contraction",
+                                "motor_temporal_quality": "Consistent",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:25:14.472807"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 32.0,
+                    "current_time": "2026-05-12T11:26:05.915994",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:26:05.914995",
+                        "annotations": [
+                            {
+                                "x": 178.93388429752065,
+                                "y": 443.07438016528926,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:26:05.108418"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 36.0,
+                    "current_time": "2026-05-12T11:28:04.921655",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:28:04.921655",
+                        "annotations": [
+                            {
+                                "x": 258.4600550964187,
+                                "y": 627.6887052341598,
+                                "intensity": 1,
+                                "sensation": "Pulsing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 2,
+                                "motor_quality": "Twitch",
+                                "motor_temporal_quality": "Consistent",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:28:02.763225"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 33.0,
+                    "current_time": "2026-05-12T11:30:41.936930",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:30:41.936930",
+                        "annotations": [
+                            {
+                                "x": 258.4600550964187,
+                                "y": 616.32782369146,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Brief",
+                                "additional_notes": "motor threshold reached,",
+                                "created_at": "2026-05-12T11:30:40.706790"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 45.0,
+                    "current_time": "2026-05-12T11:32:52.736294",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:32:52.735294",
+                        "annotations": [
+                            {
+                                "x": 268.400826446281,
+                                "y": 604.9669421487603,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 2,
+                                "motor_quality": "Sustained contraction",
+                                "motor_temporal_quality": "Consistent",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:32:52.098994"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 49.0,
+                    "current_time": "2026-05-12T11:34:03.965124",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:34:03.965124",
+                        "annotations": [
+                            {
+                                "x": 271.24104683195594,
+                                "y": 604.9669421487603,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 3,
+                                "motor_quality": "Visible activation",
+                                "motor_temporal_quality": "Continuous",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:34:01.801719"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "current_time": "2026-05-12T11:34:18.998078",
+            "condition": {
+                "electrode_config": "DO-C",
+                "waveform": "Sham",
+                "polarity": "Normal"
+            },
+            "displayed_status": "Sham",
+            "order_number": 3,
+            "total_trial_time_seconds": 333,
+            "patient_reports": [
+                {
+                    "current_intensity_ma": 12.0,
+                    "current_time": "2026-05-12T11:35:37.436417",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:35:37.436417",
+                        "annotations": [
+                            {
+                                "x": 741.297520661157,
+                                "y": 407.5716253443526,
+                                "intensity": 0,
+                                "sensation": "Tingling",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:35:36.581501"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 24.0,
+                    "current_time": "2026-05-12T11:36:38.535287",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:36:38.535287",
+                        "annotations": [
+                            {
+                                "x": 778.2203856749311,
+                                "y": 377.74931129476585,
+                                "intensity": 3,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:36:35.685593"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 42.0,
+                    "current_time": "2026-05-12T11:38:32.838878",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:38:32.838878",
+                        "annotations": [
+                            {
+                                "x": 715.7355371900826,
+                                "y": 413.25206611570246,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 2,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Consistent",
+                                "additional_notes": "bilateral",
+                                "created_at": "2026-05-12T11:38:31.695774"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 50.0,
+                    "current_time": "2026-05-12T11:39:45.976140",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:39:45.976140",
+                        "annotations": [
+                            {
+                                "x": 722.83608815427,
+                                "y": 410.41184573002755,
+                                "intensity": 7,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:39:39.176190"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "current_time": "2026-05-12T11:39:52.156752",
+            "condition": {
+                "electrode_config": "DO-I",
+                "waveform": "Active",
+                "polarity": "Normal"
+            },
+            "displayed_status": "Sham",
+            "order_number": 4,
+            "total_trial_time_seconds": 883,
+            "patient_reports": [
+                {
+                    "current_intensity_ma": 16.0,
+                    "current_time": "2026-05-12T11:41:14.042471",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:41:14.041467",
+                        "annotations": [
+                            {
+                                "x": 675.9724517906336,
+                                "y": 434.55371900826447,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:41:13.279891"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 24.0,
+                    "current_time": "2026-05-12T11:42:12.745171",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:42:12.745171",
+                        "annotations": [
+                            {
+                                "x": 194.55509641873277,
+                                "y": 464.3760330578512,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:42:09.312201"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 30.0,
+                    "current_time": "2026-05-12T11:43:28.883643",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:43:28.883643",
+                        "annotations": [
+                            {
+                                "x": 291.12258953168043,
+                                "y": 467.21625344352617,
+                                "intensity": 2,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Brief",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:43:28.019378"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 34.0,
+                    "current_time": "2026-05-12T11:44:25.725044",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:44:25.725044",
+                        "annotations": [
+                            {
+                                "x": 259.8801652892562,
+                                "y": 616.32782369146,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Brief",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:44:19.162165"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 29.5,
+                    "current_time": "2026-05-12T11:46:16.723109",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:46:16.723109",
+                        "annotations": [
+                            {
+                                "x": 262.72038567493115,
+                                "y": 600.7066115702479,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Brief",
+                                "additional_notes": "threshold reached",
+                                "created_at": "2026-05-12T11:46:16.004329"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 42.0,
+                    "current_time": "2026-05-12T11:48:43.003271",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:48:43.003271",
+                        "annotations": [
+                            {
+                                "x": 198.81542699724517,
+                                "y": 606.3870523415978,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 2,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Intermittent",
+                                "additional_notes": "ant thigh",
+                                "created_at": "2026-05-12T11:48:33.636298"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 50.0,
+                    "current_time": "2026-05-12T11:54:30.829403",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:54:30.829403",
+                        "annotations": [
+                            {
+                                "x": 235.73829201101927,
+                                "y": 413.25206611570246,
+                                "intensity": 1,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 2,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Brief",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:50:17.398467"
+                            },
+                            {
+                                "x": 266.9807162534435,
+                                "y": 606.3870523415978,
+                                "intensity": 4,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 4,
+                                "motor_quality": "Sustained contraction",
+                                "motor_temporal_quality": "Consistent",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:52:37.253473"
+                            },
+                            {
+                                "x": 230.05785123966942,
+                                "y": 602.1267217630854,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:53:10.712951"
+                            },
+                            {
+                                "x": 717.15564738292,
+                                "y": 393.37052341597797,
+                                "intensity": 7,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:53:50.362287"
+                            },
+                            {
+                                "x": 279.76170798898073,
+                                "y": 470.0564738292011,
+                                "intensity": 7,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:54:15.355644"
+                            },
+                            {
+                                "x": 200.23553719008265,
+                                "y": 468.6363636363636,
+                                "intensity": 5,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:54:28.501015"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "current_time": "2026-05-12T11:54:35.671948",
+            "condition": {
+                "electrode_config": "DV-I",
+                "waveform": "Active",
+                "polarity": "Normal"
+            },
+            "displayed_status": "Sham",
+            "order_number": 5,
+            "total_trial_time_seconds": 827,
+            "patient_reports": [
+                {
+                    "current_intensity_ma": 8.0,
+                    "current_time": "2026-05-12T11:55:42.219919",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:55:42.219919",
+                        "annotations": [
+                            {
+                                "x": 742.7176308539945,
+                                "y": 363.5482093663912,
+                                "intensity": 1,
+                                "sensation": "Tingling",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:55:41.832324"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 14.0,
+                    "current_time": "2026-05-12T11:56:18.083058",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:56:18.083058",
+                        "annotations": [
+                            {
+                                "x": 714.3154269972451,
+                                "y": 372.06887052341597,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:56:17.190116"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 34.0,
+                    "current_time": "2026-05-12T11:58:04.080374",
+                    "patient_log": {
+                        "created_at": "2026-05-12T11:58:04.080374",
+                        "annotations": [
+                            {
+                                "x": 201.6556473829201,
+                                "y": 471.47658402203854,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:58:02.290044"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 36.0,
+                    "current_time": "2026-05-12T12:00:40.188659",
+                    "patient_log": {
+                        "created_at": "2026-05-12T12:00:40.188659",
+                        "annotations": [
+                            {
+                                "x": 301.0633608815426,
+                                "y": 604.9669421487605,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 3,
+                                "motor_quality": "Visible activation",
+                                "motor_temporal_quality": "Intermittent",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T11:59:55.067262"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 34.0,
+                    "current_time": "2026-05-12T12:01:43.789845",
+                    "patient_log": {
+                        "created_at": "2026-05-12T12:01:43.789845",
+                        "annotations": [
+                            {
+                                "x": 281.1818181818182,
+                                "y": 647.5702479338843,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Brief",
+                                "additional_notes": "motor threshold reached",
+                                "created_at": "2026-05-12T12:01:42.839005"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 40.0,
+                    "current_time": "2026-05-12T12:02:43.590855",
+                    "patient_log": {
+                        "created_at": "2026-05-12T12:02:43.590855",
+                        "annotations": [
+                            {
+                                "x": 258.4600550964187,
+                                "y": 626.2685950413223,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 3,
+                                "motor_quality": "Jerking",
+                                "motor_temporal_quality": "Intermittent",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:02:42.549450"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 42.0,
+                    "current_time": "2026-05-12T12:04:34.198897",
+                    "patient_log": {
+                        "created_at": "2026-05-12T12:04:34.198897",
+                        "annotations": [
+                            {
+                                "x": 254.19972451790633,
+                                "y": 624.8484848484849,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 3,
+                                "motor_quality": "Rhythmic movement",
+                                "motor_temporal_quality": "Rhythmic",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:03:40.840999"
+                            },
+                            {
+                                "x": 715.7355371900826,
+                                "y": 972.7754820936639,
+                                "intensity": 1,
+                                "sensation": "Pulsing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:04:30.826670"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 44.0,
+                    "current_time": "2026-05-12T12:05:14.436963",
+                    "patient_log": {
+                        "created_at": "2026-05-12T12:05:14.436963",
+                        "annotations": [
+                            {
+                                "x": 232.89807162534436,
+                                "y": 610.6473829201102,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Brief contraction",
+                                "motor_temporal_quality": "Brief",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:05:12.967165"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 46.0,
+                    "current_time": "2026-05-12T12:05:52.996713",
+                    "patient_log": {
+                        "created_at": "2026-05-12T12:05:52.996713",
+                        "annotations": [
+                            {
+                                "x": 184.61432506887053,
+                                "y": 616.32782369146,
+                                "intensity": 0,
+                                "sensation": "",
+                                "temporal_quality": "",
+                                "bilateral": false,
+                                "motor_threshold_reached": true,
+                                "motor_intensity": 1,
+                                "motor_quality": "Jerking",
+                                "motor_temporal_quality": "Intermittent",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:05:51.869215"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "current_intensity_ma": 50.0,
+                    "current_time": "2026-05-12T12:08:20.648261",
+                    "patient_log": {
+                        "created_at": "2026-05-12T12:08:20.648261",
+                        "annotations": [
+                            {
+                                "x": 731.3567493112947,
+                                "y": 379.1694214876033,
+                                "intensity": 8,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:06:38.859716"
+                            },
+                            {
+                                "x": 200.23553719008265,
+                                "y": 477.1570247933884,
+                                "intensity": 7,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:07:00.887154"
+                            },
+                            {
+                                "x": 305.3236914600551,
+                                "y": 622.0082644628098,
+                                "intensity": 5,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:07:34.726735"
+                            },
+                            {
+                                "x": 191.71487603305783,
+                                "y": 623.4283746556474,
+                                "intensity": 2,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": false,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:07:44.203550"
+                            },
+                            {
+                                "x": 768.2796143250689,
+                                "y": 978.4559228650138,
+                                "intensity": 1,
+                                "sensation": "Buzzing",
+                                "temporal_quality": "Consistent",
+                                "bilateral": true,
+                                "motor_threshold_reached": false,
+                                "motor_intensity": 0,
+                                "motor_quality": "",
+                                "motor_temporal_quality": "",
+                                "additional_notes": "",
+                                "created_at": "2026-05-12T12:08:19.673160"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
